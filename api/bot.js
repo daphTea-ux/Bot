@@ -5,7 +5,6 @@ const tiktok = require("../cmd/tiktok")
 const ytmp3 = require("../cmd/ytmp3")
 const github = require("../cmd/github")
 const upscale = require("../cmd/upscale")
-const bypass = require("../cmd/bypass")
 const tempmail = require("../cmd/tempmail")
 //=====================================\\
 const sReact = require("../lib/function")
